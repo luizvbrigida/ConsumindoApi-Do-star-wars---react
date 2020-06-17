@@ -1,0 +1,12 @@
+
+
+footer.footer{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0px 20px;
+    background-color:  rgb(65, 67, 69);
+   
+    color:#e5ab3d; 
+    box-shadow: var(--shadow);
+}

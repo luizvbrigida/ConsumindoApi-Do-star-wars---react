@@ -1,0 +1,19 @@
+
+
+header.header  {
+    
+    background-color:  rgb(65, 67, 69);  
+    color: #e5ab3d; 
+    padding: 0px 15px;
+    overflow: hidden;
+    white-space: nowrap;
+    box-shadow: var(--shadow);
+
+}
+
+header.header h1 {
+    
+    font-size: 1.8em;
+}
+
+

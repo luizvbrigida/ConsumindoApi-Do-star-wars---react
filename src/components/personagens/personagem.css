@@ -1,0 +1,17 @@
+
+.list-group  {
+    width: 356px; 
+}
+
+ul {
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+@media(max-width: 576px) {
+    .list-group {
+        max-width: 300px;
+    }
+}
+
